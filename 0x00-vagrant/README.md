@@ -1,2 +1,1 @@
-0-hello_ubuntu
-Linux
+hello vagrant
